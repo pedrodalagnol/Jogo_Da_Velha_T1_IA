@@ -3,11 +3,15 @@ Este projeto consiste em um sistema de IA capaz de classificar estados de um tab
 
 ## Membros do Grupo
 -Danielle dos Reis Madrid 
+-João Pedro Rossatti Dal Agnol
+-Renato Souza
 
 
 # Algoritmos usados :
 Árvore de Decisão - Danielle Madrid
 Random Forest - Danielle Madrid 
+K-NN - João Dal Agnol
+SVM - João Dal Agnol
 Multi Layer Percepton - Renato Souza
     
     
