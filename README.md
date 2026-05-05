@@ -8,6 +8,7 @@ Este projeto consiste em um sistema de IA capaz de classificar estados de um tab
 # Algoritmos usados :
 Árvore de Decisão - Danielle Madrid
 Random Forest - Danielle Madrid 
+Multi Layer Percepton - Renato Souza
     
     
 # Organização do Repositório

@@ -217,8 +217,8 @@ top_left,top_middle,top_right,mid_left,mid_middle,mid_right,bot_left,bot_middle,
 -1,1,1,0,1,1,-1,-1,-1,O vence
 0,0,0,0,0,1,0,0,-1,Tem jogo
 1,-1,0,0,0,0,0,1,0,Tem jogo
-0,0,-1,0,-1,0,1,0,1,Tem jogo
--1,0,0,0,1,0,1,-1,0,Tem jogo
+0,0,-1,0,-1,0,1,0,1,Possibilidade de fim de jogo
+-1,0,0,0,1,0,1,-1,0,Possibilidade de fim de jogo
 0,0,0,0,0,0,0,0,1,Tem jogo
 1,0,0,0,-1,0,0,0,0,Tem jogo
 0,0,1,0,0,0,0,0,0,Tem jogo
@@ -226,80 +226,80 @@ top_left,top_middle,top_right,mid_left,mid_middle,mid_right,bot_left,bot_middle,
 0,0,0,0,0,0,1,-1,0,Tem jogo
 0,0,0,0,0,1,0,0,0,Tem jogo
 0,0,0,1,0,0,0,0,0,Tem jogo
-1,0,0,0,0,-1,1,0,0,Tem jogo
+1,0,0,0,0,-1,1,0,0,Possibilidade de fim de jogo
 0,1,0,0,0,-1,0,0,1,Tem jogo
 0,0,0,0,0,0,0,1,0,Tem jogo
 0,-1,0,0,0,1,0,0,0,Tem jogo
 0,0,0,1,0,0,0,-1,0,Tem jogo
 0,0,1,0,0,0,0,0,0,Tem jogo
-0,0,-1,-1,0,0,1,0,1,Tem jogo
+0,0,-1,-1,0,0,1,0,1,Possibilidade de fim de jogo
 0,0,1,0,0,0,0,0,0,Tem jogo
 0,-1,0,1,0,0,0,0,0,Tem jogo
 0,1,0,0,0,1,-1,0,0,Tem jogo
-0,0,1,0,-1,0,1,-1,0,Tem jogo
--1,0,1,-1,0,0,0,0,1,Tem jogo
+0,0,1,0,-1,0,1,-1,0,Possibilidade de fim de jogo
+-1,0,1,-1,0,0,0,0,1,Possibilidade de fim de jogo
 -1,0,0,1,0,0,0,0,0,Tem jogo
 0,0,0,-1,0,1,1,0,0,Tem jogo
--1,0,-1,1,0,0,1,0,0,Tem jogo
+-1,0,-1,1,0,0,1,0,0,Possibilidade de fim de jogo
 0,-1,0,0,0,0,0,0,1,Tem jogo
-1,0,0,0,-1,0,-1,0,1,Tem jogo
--1,1,1,0,-1,0,0,0,0,Tem jogo
+1,0,0,0,-1,0,-1,0,1,Possibilidade de fim de jogo
+-1,1,1,0,-1,0,0,0,0,Possibilidade de fim de jogo
 0,1,0,0,0,0,0,0,0,Tem jogo
 0,0,0,0,0,0,0,1,0,Tem jogo
-0,-1,0,-1,0,1,0,0,1,Tem jogo
--1,0,1,0,0,1,0,0,0,Tem jogo
-1,1,0,-1,-1,0,0,0,0,Tem jogo
+0,-1,0,-1,0,1,0,0,1,Possibilidade de fim de jogo
+-1,0,1,0,0,1,0,0,0,Possibilidade de fim de jogo
+1,1,0,-1,-1,0,0,0,0,Possibilidade de fim de jogo
 1,0,0,0,0,0,0,0,0,Tem jogo
-1,0,0,-1,0,-1,0,1,0,Tem jogo
+1,0,0,-1,0,-1,0,1,0,Possibilidade de fim de jogo
 0,0,1,0,0,0,0,-1,0,Tem jogo
--1,0,0,0,1,0,0,1,0,Tem jogo
+-1,0,0,0,1,0,0,1,0,Possibilidade de fim de jogo
 0,0,0,0,0,1,0,0,0,Tem jogo
 -1,1,1,0,0,-1,0,0,0,Tem jogo
-0,0,-1,0,1,0,0,0,1,Tem jogo
+0,0,-1,0,1,0,0,0,1,Possibilidade de fim de jogo
 0,0,-1,0,0,1,1,0,0,Tem jogo
 0,0,0,0,0,0,0,0,1,Tem jogo
--1,1,0,0,-1,0,0,1,0,Tem jogo
+-1,1,0,0,-1,0,0,1,0,Possibilidade de fim de jogo
 0,0,0,1,0,0,-1,0,0,Tem jogo
-0,1,0,0,0,1,0,-1,-1,Tem jogo
+0,1,0,0,0,1,0,-1,-1,Possibilidade de fim de jogo
 0,0,0,0,0,0,1,0,-1,Tem jogo
 0,0,-1,1,0,0,0,0,0,Tem jogo
 0,0,0,0,0,1,-1,0,0,Tem jogo
 0,0,0,0,0,-1,0,0,1,Tem jogo
--1,0,0,-1,0,1,0,0,1,Tem jogo
+-1,0,0,-1,0,1,0,0,1,Possibilidade de fim de jogo
 1,0,0,0,0,0,0,0,-1,Tem jogo
 0,0,0,0,0,1,0,0,0,Tem jogo
 0,0,0,0,0,1,-1,0,0,Tem jogo
-1,0,0,0,1,-1,0,-1,0,Tem jogo
--1,-1,1,0,0,0,1,0,0,Tem jogo
+1,0,0,0,1,-1,0,-1,0,Possibilidade de fim de jogo
+-1,-1,1,0,0,0,1,0,0,Possibilidade de fim de jogo
 0,0,0,0,0,-1,0,0,1,Tem jogo
 0,0,1,0,0,0,0,0,0,Tem jogo
--1,0,1,0,0,1,0,0,0,Tem jogo
+-1,0,1,0,0,1,0,0,0,Possibilidade de fim de jogo
 1,0,0,0,0,0,0,0,-1,Tem jogo
 0,0,0,0,1,0,0,-1,0,Tem jogo
-0,0,0,0,0,1,-1,0,1,Tem jogo
+0,0,0,0,0,1,-1,0,1,Possibilidade de fim de jogo
 0,0,0,1,0,0,-1,-1,1,Tem jogo
-1,0,0,0,-1,-1,1,0,0,Tem jogo
-1,-1,0,0,0,1,0,-1,0,Tem jogo
-0,0,1,0,-1,0,0,1,-1,Tem jogo
+1,0,0,0,-1,-1,1,0,0,Possibilidade de fim de jogo
+1,-1,0,0,0,1,0,-1,0,Possibilidade de fim de jogo
+0,0,1,0,-1,0,0,1,-1,Possibilidade de fim de jogo
 0,0,0,1,0,0,0,-1,0,Tem jogo
 0,0,0,0,0,0,1,0,0,Tem jogo
 0,1,0,0,0,0,0,-1,0,Tem jogo
 0,0,0,1,0,0,0,0,0,Tem jogo
 0,0,-1,0,0,0,0,1,0,Tem jogo
 0,0,1,1,0,0,0,-1,0,Tem jogo
-1,0,-1,1,0,0,-1,0,0,Tem jogo
--1,0,1,0,1,0,-1,0,0,Tem jogo
+1,0,-1,1,0,0,-1,0,0,Possibilidade de fim de jogo
+-1,0,1,0,1,0,-1,0,0,Possibilidade de fim de jogo
 0,0,0,1,0,0,-1,0,0,Tem jogo
 0,0,0,0,1,-1,0,0,0,Tem jogo
 0,-1,0,1,0,0,-1,0,1,Tem jogo
-0,0,1,-1,1,0,0,0,0,Tem jogo
+0,0,1,-1,1,0,0,0,0,Possibilidade de fim de jogo
 0,0,1,0,0,-1,0,1,0,Tem jogo
-1,-1,0,0,0,0,1,-1,0,Tem jogo
--1,-1,0,0,1,1,0,0,0,Tem jogo
+1,-1,0,0,0,0,1,-1,0,Possibilidade de fim de jogo
+-1,-1,0,0,1,1,0,0,0,Possibilidade de fim de jogo
 0,0,0,0,1,0,0,-1,0,Tem jogo
 0,0,1,0,0,0,0,0,0,Tem jogo
 0,1,0,0,0,0,0,0,0,Tem jogo
-0,0,-1,0,1,0,0,0,1,Tem jogo
+0,0,-1,0,1,0,0,0,1,Possibilidade de fim de jogo
 0,1,0,0,0,0,0,0,0,Tem jogo
 0,0,0,1,-1,0,0,0,0,Tem jogo
 0,0,0,0,0,1,0,0,0,Tem jogo
@@ -310,7 +310,7 @@ top_left,top_middle,top_right,mid_left,mid_middle,mid_right,bot_left,bot_middle,
 0,1,0,0,0,0,0,0,0,Tem jogo
 0,0,0,0,1,-1,0,0,0,Tem jogo
 0,1,0,0,0,0,0,0,0,Tem jogo
-0,0,-1,1,1,-1,0,0,0,Tem jogo
+0,0,-1,1,1,-1,0,0,0,Possibilidade de fim de jogo
 0,0,0,1,0,0,0,0,-1,Tem jogo
 0,1,0,0,0,-1,1,0,0,Tem jogo
 0,0,0,0,0,0,0,1,-1,Tem jogo
@@ -318,13 +318,13 @@ top_left,top_middle,top_right,mid_left,mid_middle,mid_right,bot_left,bot_middle,
 -1,0,0,0,0,1,1,-1,0,Tem jogo
 0,0,0,0,0,0,0,1,0,Tem jogo
 0,0,1,0,0,0,0,0,0,Tem jogo
-0,0,-1,1,0,0,1,-1,0,Tem jogo
+0,0,-1,1,0,0,1,-1,0,Possibilidade de fim de jogo
 0,1,0,-1,0,0,0,0,0,Tem jogo
 0,1,0,0,-1,0,0,0,0,Tem jogo
 0,0,0,0,1,0,0,0,0,Tem jogo
 0,0,0,0,0,1,0,0,0,Tem jogo
 -1,0,0,1,1,-1,0,0,0,Tem jogo
-0,1,1,0,-1,0,0,0,0,Tem jogo
+0,1,1,0,-1,0,0,0,0,Possibilidade de fim de jogo
 -1,0,0,1,0,0,0,0,0,Tem jogo
 0,-1,1,1,0,0,0,0,-1,Tem jogo
 0,0,0,-1,1,1,0,0,0,Tem jogo
@@ -335,11 +335,11 @@ top_left,top_middle,top_right,mid_left,mid_middle,mid_right,bot_left,bot_middle,
 0,-1,0,1,0,0,0,0,0,Tem jogo
 0,-1,0,0,0,0,1,0,0,Tem jogo
 0,0,0,0,1,0,0,0,0,Tem jogo
-0,0,0,1,0,1,-1,0,0,Tem jogo
-1,0,0,-1,0,0,0,0,1,Tem jogo
-1,1,0,0,0,0,0,-1,0,Tem jogo
-0,0,-1,1,1,0,0,-1,0,Tem jogo
-0,-1,0,1,-1,0,1,0,0,Tem jogo
+0,0,0,1,0,1,-1,0,0,Possibilidade de fim de jogo
+1,0,0,-1,0,0,0,0,1,Possibilidade de fim de jogo
+1,1,0,0,0,0,0,-1,0,Possibilidade de fim de jogo
+0,0,-1,1,1,0,0,-1,0,Possibilidade de fim de jogo
+0,-1,0,1,-1,0,1,0,0,Possibilidade de fim de jogo
 0,0,0,0,0,0,1,0,0,Tem jogo
 0,0,1,0,0,-1,0,0,1,Tem jogo
 0,0,0,0,0,1,0,0,0,Tem jogo
@@ -349,66 +349,66 @@ top_left,top_middle,top_right,mid_left,mid_middle,mid_right,bot_left,bot_middle,
 0,0,0,1,0,0,0,-1,0,Tem jogo
 -1,1,0,0,0,0,0,0,1,Tem jogo
 -1,0,0,0,0,0,0,1,0,Tem jogo
-0,1,1,0,0,-1,-1,0,0,Tem jogo
-0,-1,0,-1,1,0,1,0,0,Tem jogo
+0,1,1,0,0,-1,-1,0,0,Possibilidade de fim de jogo
+0,-1,0,-1,1,0,1,0,0,Possibilidade de fim de jogo
 0,0,0,1,0,0,0,0,0,Tem jogo
 0,0,1,0,0,0,0,1,-1,Tem jogo
-0,0,1,1,0,0,-1,-1,0,Tem jogo
-0,-1,0,1,-1,0,0,0,1,Tem jogo
+0,0,1,1,0,0,-1,-1,0,Possibilidade de fim de jogo
+0,-1,0,1,-1,0,0,0,1,Possibilidade de fim de jogo
 0,1,0,0,0,-1,0,0,0,Tem jogo
 0,0,0,0,1,0,0,0,0,Tem jogo
-0,1,-1,0,1,0,0,0,0,Tem jogo
+0,1,-1,0,1,0,0,0,0,Possibilidade de fim de jogo
 -1,1,0,0,0,0,0,0,0,Tem jogo
 1,0,0,0,0,0,-1,0,0,Tem jogo
 1,0,0,0,0,0,0,0,0,Tem jogo
-0,0,1,-1,0,0,-1,0,1,Tem jogo
+0,0,1,-1,0,0,-1,0,1,Possibilidade de fim de jogo
 0,0,0,0,0,0,0,0,1,Tem jogo
-1,0,0,0,0,-1,1,0,0,Tem jogo
+1,0,0,0,0,-1,1,0,0,Possibilidade de fim de jogo
 0,0,0,0,0,0,0,0,1,Tem jogo
--1,0,0,0,0,0,1,0,1,Tem jogo
-1,0,-1,0,0,0,1,0,-1,Tem jogo
+-1,0,0,0,0,0,1,0,1,Possibilidade de fim de jogo
+1,0,-1,0,0,0,1,0,-1,Possibilidade de fim de jogo
 0,0,0,0,0,0,0,1,0,Tem jogo
 -1,0,0,0,0,1,0,1,0,Tem jogo
 0,1,0,0,0,-1,0,0,0,Tem jogo
-0,0,0,-1,1,0,0,-1,1,Tem jogo
+0,0,0,-1,1,0,0,-1,1,Possibilidade de fim de jogo
 0,0,0,1,0,0,0,0,-1,Tem jogo
 0,0,0,0,0,0,1,0,0,Tem jogo
 1,-1,0,0,0,0,0,1,-1,Tem jogo
--1,0,0,0,1,0,0,1,-1,Tem jogo
+-1,0,0,0,1,0,0,1,-1,Possibilidade de fim de jogo
 0,0,0,0,0,-1,0,0,1,Tem jogo
--1,1,0,0,0,1,0,0,-1,Tem jogo
-0,1,1,0,0,-1,0,0,-1,Tem jogo
+-1,1,0,0,0,1,0,0,-1,Possibilidade de fim de jogo
+0,1,1,0,0,-1,0,0,-1,Possibilidade de fim de jogo
 0,0,0,-1,0,1,0,0,0,Tem jogo
 0,0,0,-1,-1,1,0,1,0,Tem jogo
-0,0,1,0,0,-1,1,0,-1,Tem jogo
-0,0,1,-1,0,0,-1,0,1,Tem jogo
+0,0,1,0,0,-1,1,0,-1,Possibilidade de fim de jogo
+0,0,1,-1,0,0,-1,0,1,Possibilidade de fim de jogo
 0,0,1,0,0,0,0,0,0,Tem jogo
 0,0,0,0,0,0,1,0,0,Tem jogo
 0,1,0,0,0,0,0,0,0,Tem jogo
 0,0,0,0,0,0,0,1,0,Tem jogo
 0,0,0,0,0,0,0,0,1,Tem jogo
-0,0,0,-1,0,1,0,0,1,Tem jogo
-0,1,-1,0,1,0,0,0,0,Tem jogo
+0,0,0,-1,0,1,0,0,1,Possibilidade de fim de jogo
+0,1,-1,0,1,0,0,0,0,Possibilidade de fim de jogo
 0,0,1,0,0,0,0,0,0,Tem jogo
 0,0,1,1,0,-1,-1,0,0,Tem jogo
 -1,0,0,0,0,0,0,0,1,Tem jogo
 0,0,0,0,0,0,0,0,1,Tem jogo
-1,0,1,0,0,0,0,-1,0,Tem jogo
-0,0,-1,0,-1,0,1,0,1,Tem jogo
+1,0,1,0,0,0,0,-1,0,Possibilidade de fim de jogo
+0,0,-1,0,-1,0,1,0,1,Possibilidade de fim de jogo
 0,0,0,0,0,0,0,1,0,Tem jogo
 0,0,0,0,0,0,0,1,0,Tem jogo
 0,0,1,0,0,0,0,0,0,Tem jogo
 0,0,0,0,-1,0,0,1,0,Tem jogo
--1,0,-1,1,0,0,0,1,0,Tem jogo
+-1,0,-1,1,0,0,0,1,0,Possibilidade de fim de jogo
 -1,0,0,0,1,0,0,0,0,Tem jogo
 0,0,0,0,0,1,0,0,0,Tem jogo
--1,1,0,0,0,0,0,1,0,Tem jogo
+-1,1,0,0,0,0,0,1,0,Possibilidade de fim de jogo
 0,0,0,0,0,0,0,1,0,Tem jogo
 0,1,0,0,0,0,0,0,0,Tem jogo
 0,-1,0,0,0,0,0,1,0,Tem jogo
 0,0,0,0,0,-1,1,0,0,Tem jogo
 0,0,1,-1,0,0,0,1,-1,Tem jogo
-0,1,0,0,1,0,0,0,-1,Tem jogo
+0,1,0,0,1,0,0,0,-1,Possibilidade de fim de jogo
 0,0,-1,0,0,0,0,1,0,Tem jogo
 0,0,-1,-1,0,1,0,0,1,Tem jogo
 0,0,0,0,0,1,0,0,-1,Tem jogo
